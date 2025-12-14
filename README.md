@@ -46,7 +46,7 @@ news-fetcher/
 1. **Clone or download** this repository.
 2. Open the project folder in VS Code (or your editor).
 3. Start a simple local server.
-4. Open the browser at the shown local URL often http://localhost:3000 or http://127.0.0.1:8000.
+4. Open the browser at the shown local URL (often http://localhost:3000 or http://127.0.0.1:8000).
 5. Start typing in the search box to see instant filtering and highlighting.
 
 ---
